@@ -1,5 +1,5 @@
 from .coingecko_api import coingecko_status
-from . import spanish
+from .spanish import simple
 
 
 MY_CONST = 10000
