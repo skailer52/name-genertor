@@ -1,2 +1,2 @@
 def spanish_name(name):
-    return name + "go"
+    return name + "go amigogogogo"
